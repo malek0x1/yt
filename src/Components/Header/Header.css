@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+#logo{
+    color: #222;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#logo span{
+    color: crimson;
+    font-weight: bold;
+    font-size: 23px;
+}

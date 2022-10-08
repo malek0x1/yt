@@ -1,0 +1,51 @@
+.Main {
+    margin-top: 20px;
+    text-align: center;
+    padding: 30px;
+    /* background-color: black; */
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-radius: 20px;
+    background: #cb2d3e; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #cb2d3e, #ef473a); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cb2d3e, #ef473a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+
+.Main h1 {
+    color: white;
+}
+
+.Main input {
+    width: 600px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.inputWrapper {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 10px;
+}
+
+.Main button {
+    background-color: black;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+    color: white;
+    border: none;
+}
+
+.main-btns{
+    gap: 5px;
+    display: flex;
+}
